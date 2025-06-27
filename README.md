@@ -47,7 +47,7 @@ heart-disease-prediction/
 ├── templates/
 │   ├── index.html              # Input form template
 │   └── result.html             # Result display template
-├── static/                     # (Optional) Styling assets (CSS/JS)
+├── static/                     # (Optional) Styling assets
 └── README.md                   # Project overview
 
 ````
@@ -106,10 +106,7 @@ http://127.0.0.1:5000
 
 | Home Form                     | Result Output                     |
 | ----------------------------- | --------------------------------- |
-| ![Form](screenshots/form.png) | ![Result](screenshots/result.png) |
-
-> You can capture and add these screenshots in a `screenshots/` folder.
-
+| ![image](https://github.com/user-attachments/assets/9dd7c5c1-4bb9-46fd-b14a-8ee0ea86263f)| ![image](https://github.com/user-attachments/assets/80700683-ac44-4b41-b04c-98715973ef49)
 ---
 
 ## ✅ Example Inputs
